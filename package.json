@@ -148,4 +148,8 @@
       "braces": "3.0.3"
     }
   }
+  "scripts": {
+  "postinstall": "npx update-browserslist-db@latest"
+}
+
 }
